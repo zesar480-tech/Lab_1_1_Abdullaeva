@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\student\Desktop\БИД_262 ПА\Lab0.c\Source.c(9,2): warning C4098: main: функция типа "void", возвращающая значение
+  Lab0.c.vcxproj -> C:\Users\student\Desktop\БИД_262 ПА\Lab0.c\x64\Debug\Lab0.c.exe
